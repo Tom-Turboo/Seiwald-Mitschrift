@@ -27,6 +27,16 @@ Fallss bei der Installation sogenannte build scripts nicht ausgef체hrt werden k�
 1. Wechsele in das Installationsverzeichnis (z.B. mit `cd strapi-project`)
 2. F체hre den Befehl `pnpm install` aus, um die fehlenden Pakete zu installieren und die Build-Skripte auszuf체hren. Dieser scheitert in der Regel - die Build-Skripte m체ssen mit pnpm approve-builds manuell freigegeben werden.
 
+---
+
+# Historische Entwicklung von WebDev
+
+Webdecelopment hat im Laufe der letzten 35 Jahre viele verschiedene Phasen durchlaufen.
+
+1. Statische Website (HTML, CSS, JS) - initale Phase des Webdevelopments
+2. Dynamische Website (mit Serverseitiger Programmiersprach - PHP, Python, NodeJS - und Datenbananbindung). Dominante Phase des Webdevelopments in 2000 Jahren.
+3. Single-Page-Applications (SPA) - mit JS-Frameworks erstellte "Webapps", die klassische Desktop-Anwendungen bzw, Handyapps bieten. Dominante Phase des Webdevelopments in 2010 Jahren.
+
 # VibeCoding / AgenticEngineering mit VS-Code und GitHub Copilot
 
 VibeCoding passiert in VS-Code in erster Linie 체ber die neu eingef체hrte Agent View.
